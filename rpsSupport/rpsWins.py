@@ -7,3 +7,4 @@ winners = {
     paper : [scissors],
     scissors : [rock]
 }
+
